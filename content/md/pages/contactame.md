@@ -1,13 +1,16 @@
 {:title "Contactame"
- :layout :page
+ :layout :page_socialnetw
  :page-index 2}
 
 ## ¿Necesitás un electricista?
 
-> Si tenés algún problema eléctrico en tu negocio o domicilio no dudes en ponerte en contacto. 
+Si tenés algún problema eléctrico en tu negocio o domicilio no dudes en ponerte en contacto. 
 
-> Escribime  
-> (¡SOLO CABA!)  
+Escribime  
+(¡SOLO CABA!)  
 
-> **Email: abica2000@gmail.com**  
-> Buenos Aires, Argentina.
+**Email: abica2000@gmail.com**  
+Buenos Aires, Argentina.
+
+## Visita mis redes sociales
+

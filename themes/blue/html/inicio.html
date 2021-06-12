@@ -2,10 +2,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es">
     <head>
         <meta charset="utf-8"/>
-        <title>Andrés Blanco Instalaciones</title>
-        <meta name="description" content="Esta es mi página personal donde escribo sobre electricidad e instalaciones eléctricas">
+        <title>{{title}}{% block subtitle %}{% endblock %}</title>
+        <meta name="description" content="{{description}}">
         <meta name="keywords" content="">
-        <link rel="canonical" href="https://andresblancoinstalaciones.github.io/blog/pages-output/inicio/">
+        <link rel="canonical" href="{{site-url}}{{uri}}">
        <meta name="viewport" content="width=device-width, initial-scale=1">
         <style>
          body {
@@ -15,8 +15,8 @@
         </style> 
     </head>
     <body>
-        
+        {% block content %}
         <div></div>
-        
+        {% endblock %}
     </body>
 </html>

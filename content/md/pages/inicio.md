@@ -1,6 +1,7 @@
 {:title "Home"
  :page-index 0
- :layout :page
+ :layout :inicio
  :home true
 }
 
+# Hola
