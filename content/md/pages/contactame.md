@@ -9,7 +9,7 @@ Si tenés algún problema eléctrico en tu negocio o domicilio no dudes en poner
 Escribime  
 (¡SOLO CABA!)  
 
-**Email: abica2000@gmail.com**  
+**Email: {{email}}**  
 Buenos Aires, Argentina.
 
 ## Visita mis redes sociales
