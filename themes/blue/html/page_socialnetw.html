@@ -17,9 +17,19 @@
         <h2>{{page.title}}</h2>
     </div>
     {% if page.toc %}{{page.toc|safe}}{% endif %}
-    {{page.content|safe}}
-
+    <div id="email">
+        {{page.content|safe}}
+        <h4>Email: </h4>
+        <canvas id="myCanvas" width="350" height="80"></canvas>
+        <script>
+         var canvas = document.getElementById("myCanvas");
+         var ctx = canvas.getContext("2d");
+         ctx.font = "1.5rem Arial";
+         ctx.fillText("abica2000@gmail.com",10,50);
+        </script>
+    </div>
     <div>
+        <h2>Visitá mis redes sociales</h2>
         <ul style="list-style: none">
             <li> <a href="https://www.facebook.com/andresjose.blancoperez"><i class="fa fa-facebook-official" aria-hidden="true"></i></a> </li>
             <li> <a href="https://www.instagram.com/abica2000/"><i class="fa fa-instagram" aria-hidden="true"></i></a> </li>

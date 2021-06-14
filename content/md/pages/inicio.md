@@ -1,7 +1,8 @@
-{:title "Home"
+{:title "Inicio | Andrés Blanco Instalaciones"
  :page-index 0
  :layout :inicio
- :home true
+ :navbar? true
+ :home? true
 }
 
-# Hola
+# ¿Buscás un electricista? ¿Querés informarte sobre electricidad (tips, instalaciones, normativas, etc.)? Si es así, ¡bienvenido! Llegás al lugar correcto.
