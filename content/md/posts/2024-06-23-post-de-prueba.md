@@ -3,6 +3,6 @@
 :date "2024-06-23"
 :author "Andrés Blanco"}
 
-# Bievenidos a mi blog
+# Bienvenidos a mi blog
 
 ¡Saludos! Soy Andrés Blanco y les doy la bienvenida a mi post.
