@@ -6,3 +6,10 @@
 # Hola! Este es mi segundo mensaje
 
 Estoy escribiendo este post para hacer saber cómo puedes hacer para publicar tus posts.
+
+Este es otra línea
+
+## Un subtitulo
+
+sí, acá vamos. [Presiona acá](www.google.com).
+
