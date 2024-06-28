@@ -22,6 +22,11 @@ jobs:
         with:
           cli: 1.11.3.1463
 
+      - name: Markdown Linting Action
+        uses: avto-dev/markdown-lint@v1.5.0
+        with:
+          args: content/md/
+        
       - name: Build Blog site
         run: clojure -M:build
 
