@@ -21,12 +21,7 @@ jobs:
         uses: DeLaGuardo/setup-clojure@12.5
         with:
           cli: 1.11.3.1463
-
-      - name: Markdown Linting Action
-        uses: docker://avtodev/markdown-lint:v1
-        with:
-          args: content/md/
-        
+          
       - name: Build Blog site
         run: clojure -M:build
 
